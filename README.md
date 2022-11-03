@@ -1,7 +1,7 @@
 # Next Experiment
  Next.js 13 practice app in TypeScript
 
-**Requiremntes**: node 18
+**Requirements**: node 16
 
 **install**: `npm ci` or `pnpm i`
 

@@ -1,0 +1,2 @@
+TurboPack (--turbo flag in package.json) doesn't seem to support ts-debugging
+Also, .css modules seem to be ignored by TurboPack

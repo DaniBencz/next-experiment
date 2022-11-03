@@ -1,5 +1,5 @@
-import { Article } from "./types";
-export const articles: Article[] = [
+import { TArticle } from "./types";
+export const articles: TArticle[] = [
     {
         id: '1',
         title: 'GitHub introduces dark mode and auto-merge pull request',
