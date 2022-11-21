@@ -10,7 +10,7 @@ enum TypeName {
 }
 
 type TCountry = {
-    __typename: TypeName.Country,
+    __typename?: TypeName.Country,
     code: string,
     name: string,
     emoji: string;
